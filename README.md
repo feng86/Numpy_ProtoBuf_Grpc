@@ -19,3 +19,4 @@ Python numpy + Google protocol buffer + Google grpc
 * eigen library
 * [Eigen3](www2.math.ethz.ch/education/bachelor/lectures/hs2015/math/nummath_cse/Scrips_and_more.html)
 * [good cpp_tutorial.pdf](www2.math.ethz.ch/education/bachelor/lectures/hs2015/math/nummath_cse/eigen/cpptutorial/cpp_tutorial.pdf)
+* [Google: 'EigenMetaKernel']
